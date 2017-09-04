@@ -1,6 +1,6 @@
 <application>
   <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="git.exe" />
+    <option name="myPathToGit" value="C:\Users\kkama\Lab1\src\main\scala\Lab1\Lab1\HelloWorld.scala" />
     <option name="SSH_EXECUTABLE" value="IDEA_SSH" />
   </component>
 </application>
